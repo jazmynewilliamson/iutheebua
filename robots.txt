@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ootaixaiz.iromhacker.ru/sitemap.xml
